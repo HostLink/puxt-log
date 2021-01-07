@@ -1,0 +1,5 @@
+<?php
+
+require function ($options) {
+    $this->addPlugin(__DIR__ . "/plugins.php");
+};
