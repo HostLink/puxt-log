@@ -1,5 +1,5 @@
 <?php
 
-require function ($options) {
+return function ($options) {
     $this->addPlugin(__DIR__ . "/plugins.php");
 };
