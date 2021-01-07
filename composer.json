@@ -1,0 +1,15 @@
+{
+    "name": "hostlink/puxt-log",
+    "description": "A logger for puxt",
+    "type": "library",
+    "require": {
+        "monolog/monolog": "^1.26"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Raymond Chong",
+            "email": "mathsgod@yahoo.com"
+        }
+    ]
+}
